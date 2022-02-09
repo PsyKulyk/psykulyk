@@ -5,20 +5,7 @@
 
 <body id="home">
 
-<div id="templatemo_header_wrapper">
-	<div id="site_title"><h1><a href="#">Журавль в руках</a></h1></div>
-     <div id="templatemo_menu" class="ddsmoothmenu">
-        <ul>
-            <li><a href="index.html" class="selected">Главная</a></li>
-           
-            
-                
-            </li>
-            
-        </ul>
-        <br style="clear: left" />
-    </div> <!-- end of templatemo_menu -->
-    <div class="cleaner"></div>
+
 </div>	<!-- END of templatemo_header_wrapper -->
 <div id="templatemo_slider">
 	<!-- This is the container for the carousel. -->
