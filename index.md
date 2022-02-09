@@ -6,28 +6,7 @@
 <body id="home">
 
 
-</div>	<!-- END of templatemo_header_wrapper -->
-<div id="templatemo_slider">
-	<!-- This is the container for the carousel. -->
-    <div id = "carousel1" style="width:960px; height:280px;background:none;overflow:scroll; margin-top: 20px">            
-        <!-- All images with class of "cloudcarousel" will be turned into carousel items -->
-        <!-- You can place links around these images -->
-        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/1.jpeg" alt="CSS Templates 1" title="Хорошая семья" /></a>
-        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/2.jpeg" alt="CSS Templates 2" title="Расстановка по иерархии" /></a>
-        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/3.jpg" alt="CSS Templates 3" title="Семейные расстановки" /></a>
-        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/4.jpg" alt="CSS Templates 4" title="Тренинги" /></a>
-        <a  href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/5.jpg" alt="Flash Templates 1" title="" /></a>
-        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/6.jpg" alt="Расстановки фигур" title="Расстановки фигур" /></a>
-        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/7.jpg" alt="Flash Templates 3" title="Патнеры по бизнесу" /></a>
-        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/8.jpg" alt="Родовое древо" title="Родовое древо" /></a>
-    </div>
-    
-    <!-- Define left and right buttons. -->
-    <center>
-    <input id="slider-left-but" type="button" value="" />
-    <input id="slider-right-but" type="button" value="" />
-    </center>
-</div>
+
 <div id="templatemo_main">
 	
     <div id="content">
