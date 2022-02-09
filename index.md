@@ -1,152 +1,28 @@
 
-<head>
+<!DOCTYPE html><html lang="ru"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"><title>Эко-проект Посади дерево</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="keywords" content="Эко-проект Посади дерево" /><meta name="description" content="Эко-проект Посади дерево" /><link href="/bitrix/cache/css/s1/main/kernel_main/kernel_main_v1.css?163403548428845" type="text/css"  rel="stylesheet" /><link href="/bitrix/panel/main/popup.min.css?160466394020704" type="text/css"  rel="stylesheet" /><link href="/bitrix/cache/css/s1/main/template_34c0274f519218cdfbecbffdcc7edcc7/template_34c0274f519218cdfbecbffdcc7edcc7_v1.css?162754991361568" type="text/css"  data-template-style="true" rel="stylesheet" /><script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script><script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1644396838','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'dc5095b1ff32d93affd9b07c94b7a15e'});</script><script type="text/javascript"  src="/bitrix/cache/js/s1/main/kernel_main/kernel_main_v1.js?1634035484298591"></script><script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/json/json2.min.js','/bitrix/js/main/core/core_ls.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/local/templates/main/vendor/jquery/jquery.min.js','/local/templates/main/vendor/owlcarousel/owl.carousel.min.js','/local/templates/main/vendor/lightbox/lightbox.js','/local/templates/main/vendor/spincrement/jquery.spincrement.min.js','/local/templates/main/vendor/youtube/youtube.jquery.js','/local/templates/main/vendor/jquery/forms.pro.js','/local/templates/main/vendor/jquery/jquery.maskedinput.min.js','/local/templates/main/vendor/jquery/jquery.modal.js','/local/templates/main/vendor/jquery/jquery.inview.js','/local/templates/main/script.js']); </script><script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/core/css/core_popup.css','/bitrix/js/main/core/css/core_date.css','/local/templates/main/vendor/owlcarousel/owl.carousel.min.css','/local/templates/main/vendor/lightbox/lightbox.css','/local/templates/main/vendor/youtube/youtube.css','/local/templates/main/vendor/normalize/normalize.min.css','/local/templates/main/vendor/fonts/fonts.css','/local/templates/main/less_compile/template_styles.css']); </script><script>BX.message([])</script><script type="text/javascript"  src="/bitrix/cache/js/s1/main/template_dced6dfd6578d40d4ffc0786419a6fad/template_dced6dfd6578d40d4ffc0786419a6fad_v1.js?1627549780174288"></script><script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "32e34a849fb810af9dd7e6241e4272bb"]); _ba.push(["host", "xn--80aefafas9bhbrg.xn--p1ai"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script></head><body><div id="panel"></div><div class="mobile-container"><div class="mobile-only"><div class="right"><div class="current-city select-city"><div class="text">Ваш город:</div><a href="javascript:void(0)" class="city">Челябинск</a><div class="cities-list"><a href="/?set-city=36" class="cities-list-item">Челябинск</a><a href="/?set-city=37" class="cities-list-item">Копейск</a><a href="/?set-city=508" class="cities-list-item">Екатеринбург</a><a href="/?set-city=509" class="cities-list-item">Тюмень</a><a href="/?set-city=510" class="cities-list-item">Пермь</a><a href="/?set-city=511" class="cities-list-item">Магнитогорск</a></div></div><a href="javascript:void(0)" class="btn form-ajax-popup-btn">Принять участие</a></div>    		</div><div class="main-menu"><div class="container"><ul><li class="item has-sub"><a href="/about/">О проекте</a><ul class="sub"><li class="sub-item"><a href="/about/advantages/">Описание проекта</a></li><li class="sub-item"><a href="/about/trees/">Описание деревьев</a></li><li class="sub-item"><a href="/about/why/">Зачем городу деревья</a></li><li class="sub-item"><a href="/about/help/">Помощь проекту</a></li></ul></li><li class="item"><a href="/reports/">Отчёты</a></li><li class="item"><a href="/map/">Карта посадок</a></li><li class="item"><a href="/news/">Новости</a></li></ul></div></div></div><div class="mobile-wrap"><div class="wrapper"><header><div class="container"><a href="javascript:void(0)" class="mobile-menu"><span></span><span></span><span></span><span></span></a><div class="left"><div class="logo-content"><a href="/" class="logo"><img src="/local/templates/main/img/logo.png" alt=""></a><div class="text"><span>Эко-проект </span>Посади дерево</div></div></div><div class="right"><div class="social-and-btn"><div class="socail-links"><a href="https://vk.com/posadyderevo174" target="_blank" class="link vk"></a><a href="https://ok.ru/group/53785220677771" target="_blank" class="link ok"></a><a href="https://www.instagram.com/posadiderevo174/" target="_blank" class="link instagram"></a></div><!--<a href="javascript:void(0)" class="btn form-ajax-popup-btn">Принять участие</a>--></div><div class="tel-and-city"><div class="current-city select-city"><div class="text">Ваш город:</div><a href="javascript:void(0)" class="city">Челябинск</a><div class="cities-list"><a href="/?set-city=36" class="cities-list-item">Челябинск</a><a href="/?set-city=37" class="cities-list-item">Копейск</a><a href="/?set-city=508" class="cities-list-item">Екатеринбург</a><a href="/?set-city=509" class="cities-list-item">Тюмень</a><a href="/?set-city=510" class="cities-list-item">Пермь</a><a href="/?set-city=511" class="cities-list-item">Магнитогорск</a></div></div></div></div></div><nav class="main-menu"><div class="container"><ul><li class="item has-sub"><a href="/about/">О проекте</a><ul class="sub"><li class="sub-item"><a href="/about/advantages/">Описание проекта</a></li><li class="sub-item"><a href="/about/trees/">Описание деревьев</a></li><li class="sub-item"><a href="/about/why/">Зачем городу деревья</a></li><li class="sub-item"><a href="/about/help/">Помощь проекту</a></li></ul></li><li class="item"><a href="/reports/">Отчёты</a></li><li class="item"><a href="/map/">Карта посадок</a></li><li class="item"><a href="/news/">Новости</a></li></ul></div></nav></header><section class="slider"><div class="owl-carousel"><div class="item" style="background-image: url('/upload/iblock/c69/c691ab8016764986b8fc05f2e9961e21.jpg')"><span class="container" id="bx_3218110189_51"><span class="text">Посади свое личное дерево!</span></span></a></div><div class="item" style="background-image: url('/upload/iblock/9f1/9f10baea15b4262b167d740255d8ac01.jpg')"><span class="container" id="bx_3218110189_50"><span class="text">Посади свое личное дерево!</span></span></a></div><div class="item" style="background-image: url('/upload/iblock/9e3/9e378a696381cc10a8836d96de626593.jpg')"><span class="container" id="bx_3218110189_49"><span class="text">Посади свое личное дерево!</span></span></a></div></div><div class="slider-navigation"><div class="container"><div class="slider-nav"></div><div class="slider-dots"></div></div></div></section><section class="planted"><div class="container"><div class="content"><div class="item no-img"><div><div class="text">Всего высажено</div><div class="num spincrement">2202</div></div></div><div class="item no-img"><div class="text">из них:</div></div><div class="item"><div class="img"><img src="/local/templates/main/img/spruce.png" alt="хвойные"></div><div class="num spincrement">1045</div><div class="text">Хвойные</div></div><div class="item"><div class="img"><img src="/local/templates/main/img/larch.png" alt="лиственные"></div><div class="num spincrement">157</div><div class="text">Лиственные</div></div><div class="item"><div class="img"><img src="/local/templates/main/img/bush.png" alt="кустарники"></div><div class="num spincrement">0</div><div class="text">Кустарники</div></div><div class="item"><div class="img"><img src="/local/templates/main/img/plant.png" alt="саженцы"></div><div class="num spincrement">1000</div><div class="text">Саженцы</div></div></div></div></section><section class="manager"><div class="container"><div class="person"><div class="img"><img src="/local/templates/main/img/person.jpg" alt="Дмитрий Шуховцев">            </div><div class="content"><div class="quote">«Цель проекта: <br>
+Силами предпринимателей и активных горожан высадить 100 000 деревьев в&nbsp;городе Екатеринбург, Челябинск и других городах Урала, и сделать их&nbsp;зелёными&nbsp;вновь!»</div><div class="author"><span>Дмитрий Шуховцев.</span>-Основатель эко-проекта "Посади&nbsp;дерево". <br>-Президент общественного фонда&nbsp;"Экогород".                    
+                </div></div></div><div class="links"><a href="/about/trees/" class="link">Описание деревьев</a><a href="/about/why/" class="link">Зачем городу деревья</a><a href="/about/help/" class="link">Помощь проекту</a></div></div></section><section class="brands"><div class="container"><div class="name">С нами высаживают</div><div class="items owl-carousel"><div class="item"><img src="/upload/iblock/d64/d64d568c80205a08a86f7bc5a6dd1d7f.jpg" alt="ЮникредитБанк" title="ЮникредитБанк"></div><div class="item"><img src="/upload/iblock/d3d/d3d2c8b2309a895264fca6d955c9fc04.png" alt="Тотальный Диктант" title="Тотальный Диктант"></div><div class="item"><img src="/upload/iblock/d96/d967c4c12cf041d4d38b4b66a606d8bf.png" alt="Управляющая компания Монарх" title="Управляющая компания Монарх"></div><div class="item"><img src="/upload/iblock/e73/e7351ce219ad409e74343edb9a603ea9.png" alt="ЭнергоПрогресс" title="ЭнергоПрогресс"></div><div class="item"><img src="/upload/iblock/ec3/ec3970438b055d827ee260fc7e1ed696.png" alt="СТС Челябинск" title="СТС Челябинск"></div><div class="item"><img src="/upload/iblock/d76/d76efc12a9f9b179c51a6fad9b086279.png" alt="ОТВ" title="ОТВ"></div></div><div class="brands-navigation"><div class="container"><div class="brands-nav"></div></div></div><div class="more"><a href="/partners/" class="link">Посмотреть весь список</a></div></div></section></div><footer><div class="container"><div class="top"><div class="info"><div class="logo-content"><a href="/" class="logo"><img src="/local/templates/main/img/logo.png" alt=""></a><div class="text"><span>Эко-проект </span>Посади дерево</div></div><!--<div class="address">г. Челябинск</div>--><div class="tel"></div><div class="email"><a href="mailto:posadiderevo174@gmail.com">posadiderevo174@gmail.com</a></div></div><div class="footer-news"><div class="name">Новости</div><a href="/news/" class="link">к разделу новостей</a><div class="news-preview" id="bx_1373509569_427"><a href="/news/otlichnoe-zavershenie-sezona/"><span class="img"><img src="/upload/resize_cache/iblock/e32/90_90_2/e32ca79dac6f72896133449a18610268.jpg" alt="Отличное завершение сезона" title="Отличное завершение сезона"></span><span class="title">Отличное завершение сезона</span></a></div></div><div class="social"><div class="name">Мы в соц. сетях</div><div class="socail-links"><a href="https://vk.com/posadyderevo174" target="_blank" class="link vk"></a><a href="https://ok.ru/group/53785220677771" target="_blank" class="link ok"></a><a href="https://www.instagram.com/posadiderevo174/" target="_blank" class="link instagram"></a>					</div><div class="text">Мы рады вам в наших&nbsp;группах!</div></div></div></div><div class="bottom"><div class="container"><div class="text">Посади своё личное дерево! Помоги городу!</div></div></div></footer><!-- Yandex.Metrika counter --><script type="text/javascript" >
+    (function (d, w, c) {
+       (w[c] = w[c] || []).push(function() {
+           try {
+               w.yaCounter49821466 = new Ya.Metrika2({
+                   id:49821466,
+                   clickmap:true,
+                   trackLinks:true,
+                   accurateTrackBounce:true
+               });
+           } catch(e) { }
+       });
 
-</head>
+       var n = d.getElementsByTagName("script")[0],
+           s = d.createElement("script"),
+           f = function () { n.parentNode.insertBefore(s, n); };
+       s.type = "text/javascript";
+       s.async = true;
+       s.src = "https://mc.yandex.ru/metrika/tag.js";
 
-<body id="home">
-
-
-
-<div id="templatemo_main">
-	
-    <div id="content">
-<h3 style="text-align: center;"><span style="color: #800000;"><strong>СЕМИНАР ПО ПАРТНЕРСКИМ ОТНОШЕНИЯМ!</strong></span></h3>
-    	
-		<h2>Что принесет вам семинар?</h2>
-        <ul class="templatemo_list">
-            <li><a >Вы узнаете что такое счастье в отношениях</a></li>
-            <li><a >Выявите почему не складываются ваши отношения</a></li>
-        	<li><a>Каждый проработает проблемные моменты с помощью системных расстановок!</a></li>
-<li><a>Навыки как создавать деловые успешные отношения!</a></li>
-           
-        </ul>
-       
-       <p style="text-align: center;"><img class="alignnone size-medium wp-image-117" src="images/111.png" width="600" height="440" /></p>
-
-<p style="text-align: justify;">Близкие, гармоничные отношения с противоположным полом дают человеку ощущение счастья, удовлетворенности и реализованости. Умение создавать отношения – это искусство, которому необходимо обучаться через познание себя и другого человека, через проработку детских травм, которые проигрываются в партнерстве, через осознание сценариев, заложенных в детстве в нашем бессознательном, через психологическое завершение отношений с бывшими партнерами и т. д. Очень многие психологические механизмы, часто не осознаваемые, влияют на качество наших отношений. Встреча мужчины и женщины – это таинство двух противоположных энергий, двух разных психологических миров, двух личностей и двух душ.
-Партнерские отношения динамичные по своей природе имеют собственные этапы развития. Не зная закономерностей этих этапов, пары часто распадаются, думая, что отношения исчерпали себя. Это не так. Просто отношения переходят на новый уровень и требуют личностных психологических изменений партнеров. Главная Цель психотерапевтического тренинга партнерских отношений – раскрытие женственности и мужественности, которые в своем сочетании создают уникальную и неповторимую пару; индивидуальная проработка бессознательного материала партнеров; навыки создания гармоничных отношений.</p></br>
-<p style="text-align: center;"><span style="color: #800000;"><strong>ОРГАНИЗАТОРЫ</strong></span></p>
-        <div class="cleaner h30"></div>
-        <div class="about_box">
-            <img src="images/user3.jpg" alt="User 03" />
-            <h4>Наталия Трубачева</h4>
-            <p class="position">Организатор тренинга</p>
-            <p>Организатор тренинга Партнерские отношения. Тренер по здоровому образу жизни. Основатель  Wellness  клуба  в г.Черкассы.<a href="#">Read more...</a> </p>
-            <div class="cleaner"></div>
-        </div>
-        <div class="about_box">
-            <img src="images/user.jpg" alt="User 01" />
-            <h4>Кулик Анатолий</h4>
-            <p class="position">Основатель школы</p>
-            <p>Основатель школы психологического здоровья "Журавль в руках". Дипломированый психолог. Психотерапевт с 15 летним стажем частной практики. Организатор клуба знакомств в г.Черкассы.<a href="#">Read more...</a> </p>
-            <div class="cleaner"></div>
-        </div>
-        <div class="about_box">
-            <img src="images/user1.jpg" alt="User 02" />
-            <h4>Марина Ситник</h4>
-            <p class="position">Руководитель проэкта</p>
-            <p>Автор и ведущая тренинга, психолог- консультант, ведущая расстановок, соискатель духовных практик, тренер программ ориентированных на личностный рост <a href="#">Read more...</a></p>
-            <div class="cleaner"></div>
-        </div>
-    </div>
-    
-    <div id="sidebar">
-    	<h3>Контакты</h3>
-        <ul class="templatemo_list">
-            <li><a>Тел. (063) 244 85 44</a></li>
-            <li><a >Тел. (097) 337 05 07</a></li>
-        	<li><a >E-mail: vi3avi@ukr.net</a></li>
-            
-        </ul>
-<strong>Место проведения: </strong> </br>  г. Киев , адрес точный будет указан в январе месяце
-        <div class="cleaner h30"></div>
-
-        <h2>Формат тренинга:</h2>
-        <div class="testimonial">
-            <p style="text-align: left;">11-00  начало</p>
-<p style="text-align: left;">13-30 – 14-00 перерыв на обед</p>
-<p style="text-align: left;">17-00 время окончания</p>
-            
-		</div>
-<h2>Стоимость</h2>
-        <div class="testimonial">
-            <p style="text-align: left;" >Стоимость семинара - <strong style="color: #800000;">1200грн.</strong></p>
-<p style="text-align: left;">Также  есть возможность заказать  расстановку по бизнесу так и по семейной ситуации  индивидуально !!! Стоимость 1500грн.
-</p>
-
-            
-		</div>
-    	<div class="testimonial">
-            		
-<p style="color: #800000;"><strong>Тема:  Суть партнерских отношений  в семье и  бизнесе</strong></p>
-<p style="text-align: justify;"><em>Мощная и глубокая  программа, нацеленная на тех, кто хочет создать успешные и гармоничные отношения  в своей жизни.</strong></p>
-<p style="text-align: justify;"><strong>В ходе семинара каждый найдет ответы на следующие вопросы</strong></em><em>:</em></p>
-		
-<ul>
-	<li><em>Каковы мои отношения с партнёром в действительности?</em></li>
-	<li><em>Что происходит в моих родовых динамиках или почему отношения развиваются так, а не иначе?</em></li>
-	<li><em>Какие причины лежат в основе нарушения партнерства?</em></li>
-	<li><em>Как влияют Ваши отношения с родителями на то, какими будут Ваши отношения в партнерстве?</em></li>
-	<li><em>Каковы условия гармонизации отношений или чего не хватает именно Вам для счастливого партнерства?</em></li>
-</ul>
-</div>
- 
-<div class="testimonial"> 
-<p style="text-align: justify;"><strong>По окончанию семинара каждый участник получит именной сертификат</strong></p>
-</div>
-    </div> <!-- end of sidebar -->
-    
-    <div class="cleaner"></div>
-</div> <!-- END of templatemo_main -->
-
-<div id="templatemo_bottom_wrapper">
-    <div id="templatemo_bottom">
-    	<div class="col one_third">
-        	<h4><span></span>Тема семинара</h4>
-            <div class="bottom_box">
-                <ul class="footer_list">
-                    <p ><strong> Партнерские отношения  в семье и  бизнесе</strong></p>
-<p style="text-align: justify;"><em>Мощная и глубокая  программа, нацеленная на тех, кто хочет создать успешные и гармоничные отношения  в своей жизни.</strong></p>
-                </ul>  
-			</div>
-        </div>
-        <div class="col one_third">
-        	<h4><span></span>Сертификация</h4>
-            <div class="bottom_box">
-              <ul class="twitter_post">
-                   <p style="text-align: justify;"><strong>По окончанию семинара каждый участник получит именной сертификат</strong></p>
-                </ul>
-			</div>
-        </div>
-        <div class="col one_third no_margin_right">
-        	<h4><span></span>Контакты</h4>
-            <div class="bottom_box">
-               <ul class="templatemo_list">
-            <li><a >Тел. (063) 984 32 96</a></li>
-            <li><a >Тел. (097) 913 74 83</a></li>
-        	<li><a >E-mail: vi3avi@ukr.net</a></li>
-            
-        </ul><br />                        
-                <div class="footer_social_button">
-                    <a href="https://www.facebook.com/profile.php?id=100001713456841"><img src="images/facebook.png" title="facebook" alt="facebook" /></a>
-                    <a href="http://ok.ru/psikhologicheskaya.pomoshch"><img src="images/ok.png" title="ok" alt="ok" /></a>
-                    <a href="https://twitter.com/PsyOnlinet"><img src="images/twitter.png" title="twitter" alt="twitter" /></a>
-                    <a href="#"><img src="images/You.png" title="youtube" alt="youtube" /></a>
-                    <a href="http://vk.com/kulikap"><img src="images/vk.png" title="vk" alt="vk" /></a>
-                </div>
-            </div>
-        </div>
-        
-    	<div class="cleaner"></div>
-    </div> <!-- END of tempatemo_bottom -->
-</div> <!-- END of tempatemo_bottom_wrapper -->
-
-<div id="templatemo_footer_wrapper">
-    <div id="templatemo_footer">
-
-    	  School health 2015 © Школа психологического здоровья "Журавль в руках" <!-- Credit: www.templatemo.com -->
-    </div> <!-- END of templatemo_footer_wrapper -->
-</div> <!-- END of templatemo_footer -->
-
-</body>
-</html>
+       if (w.opera == "[object Opera]") {
+           d.addEventListener("DOMContentLoaded", f, false);
+       } else { f(); }
+   })(document, window, "yandex_metrika_callbacks2");
+</script><noscript><div><img src="https://mc.yandex.ru/watch/49821466" style="position:absolute; left:-9999px;" alt="" /></div></noscript></body></html>
